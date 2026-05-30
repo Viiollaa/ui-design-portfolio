@@ -7,4 +7,6 @@ An exploration of user flow and interface restructuring.
 [See more!](duolingo-redesign-concept.md)
 
 ## 2. Citizen Messaging Interface
-A visual concept for social communication tools.*
+A visual concept for social communication tools.
+[See more!](messaging-Interface.md)
+
